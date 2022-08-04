@@ -58,7 +58,11 @@
     margin-left: 5px;
 }
 
-button {
-    color:blanchedalmond;
-    width: 64px;
+
+.Weather .input {
+    width:100%;
+    padding: 8px 8px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    color: rgb(112, 222, 236);
 }

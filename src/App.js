@@ -24,7 +24,7 @@ export default function App() {
         <footer>
           This project was coded by Lindsay Golding and is{" "}
           <a
-            href="https://github.com/ljgolding/react-weather-5"
+            href="https://github.com/ljgolding/final-react"
             target="_blank"
             rel="noopener noreferrer"
           >
